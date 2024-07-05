@@ -2074,11 +2074,13 @@ h5,
     font-size: 18 px;
 }
 .testimonial-2 .v-card img {
-    width: 50px;
+    width: 100px;
     -webkit-box-flex: 0;
     -ms-flex: 0 0 50px;
     flex: 0 0 50px;
     border-radius: 50%;
+    height: 100px;
+    object-fit: cover;
 }
 .testimonial-2 .author-name {
     line-height: 1.3;
