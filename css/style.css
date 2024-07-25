@@ -2116,7 +2116,7 @@ h5,
 }
 .hero.inner-page,
 .hero.inner-page > .container > .row {
-    height: 40vh !important;
+    height: 50vh !important;
     min-height: 200px;
 }
 
